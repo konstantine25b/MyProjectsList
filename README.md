@@ -7,22 +7,26 @@ https://github.com/konstantine25b/restaurant-side-web
 React JS | Firebase | React Router | React Hook Form | Emotion
 3.	Food Ordering Functional Web-App (For Mobiles) | https://github.com/konstantine25b/restaurant-app-web
 React JS | Firebase | React Redux | React Router | Styled Component (in progress)
-4.	LinkedIn functional app (clone) |  https://github.com/konstantine25b/Linkedn-Clone
+4. Library Kiosk web & Library Kiosk app (Web, iOS, Android)
+React JS | React Native | TypeScript | React Query | React Router
+https://github.com/konstantine25b/Kiosk_Library_Web
+https://github.com/konstantine25b/Kiosk_Library_App_Ios-Android
+5.	LinkedIn functional app (clone) |  https://github.com/konstantine25b/Linkedn-Clone
 React JS | Firebase | React Redux
-5.	Movies app | https://github.com/konstantine25b/Entertainment-Movies-App
+6.	Movies app | https://github.com/konstantine25b/Entertainment-Movies-App
 React JS | Styled Components | React Router 
-6.	Planets App | https://github.com/konstantine25b/Planets-App
+7.	Planets App | https://github.com/konstantine25b/Planets-App
 React JS | Styled Components
-7.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
+8.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
 React Native | Google Cloud APIs |Redux Toolkit | React Navigation
-8.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
+9.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
 Java
-9.	Snake Game | https://github.com/konstantine25b/SnakeGame
+10.	Snake Game | https://github.com/konstantine25b/SnakeGame
 Java
-10.	“NBSG” website| https://github.com/konstantine25b/NBSG-Web
+11.	“NBSG” website| https://github.com/konstantine25b/NBSG-Web
 Startup website (built before I learned React)
 JavaScript | HTML | CSS 
-11.	Github Search App | https://github.com/konstantine25b/Github-Search-App
+12.	Github Search App | https://github.com/konstantine25b/Github-Search-App
 React Js | API | Styled Components
 
 
