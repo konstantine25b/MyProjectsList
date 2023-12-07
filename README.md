@@ -9,24 +9,24 @@ React JS | Firebase | React Router | React Hook Form | Emotion
 React JS | Firebase | React Redux | React Router | Styled Component (in progress)
 4. Library Kiosk web & Library Kiosk app (Web, iOS, Android)
 React JS | React Native | TypeScript | React Query | React Router
-https://github.com/konstantine25b/Kiosk_Library_Web
+https://github.com/konstantine25b/Kiosk_Library_Web | 
 https://github.com/konstantine25b/Kiosk_Library_App_Ios-Android
-5.	LinkedIn functional app (clone) |  https://github.com/konstantine25b/Linkedn-Clone
+6.	LinkedIn functional app (clone) |  https://github.com/konstantine25b/Linkedn-Clone
 React JS | Firebase | React Redux
-6.	Movies app | https://github.com/konstantine25b/Entertainment-Movies-App
+7.	Movies app | https://github.com/konstantine25b/Entertainment-Movies-App
 React JS | Styled Components | React Router 
-7.	Planets App | https://github.com/konstantine25b/Planets-App
+8.	Planets App | https://github.com/konstantine25b/Planets-App
 React JS | Styled Components
-8.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
+9.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
 React Native | Google Cloud APIs |Redux Toolkit | React Navigation
-9.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
+10.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
 Java
-10.	Snake Game | https://github.com/konstantine25b/SnakeGame
+11.	Snake Game | https://github.com/konstantine25b/SnakeGame
 Java
-11.	“NBSG” website| https://github.com/konstantine25b/NBSG-Web
+12.	“NBSG” website| https://github.com/konstantine25b/NBSG-Web
 Startup website (built before I learned React)
 JavaScript | HTML | CSS 
-12.	Github Search App | https://github.com/konstantine25b/Github-Search-App
+13.	Github Search App | https://github.com/konstantine25b/Github-Search-App
 React Js | API | Styled Components
 
 
