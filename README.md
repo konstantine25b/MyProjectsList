@@ -25,16 +25,20 @@ React JS | Styled Components | React Router
 React JS | Styled Components
 11.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
 React Native | Google Cloud APIs |Redux Toolkit | React Navigation
-10 Todo app | https://github.com/konstantine25b/Todo
+12. Zoo API | https://github.com/konstantine25b/Zoo_API
+Django | Django Rest Framework | Django Filters | Swagger
+13. Books API | https://github.com/konstantine25b/Books_API
+Django | Django Rest Framework | Django Filters 
+14. Todo app | https://github.com/konstantine25b/Todo
 Django | Django Rest Framework | JavaScript | HTML | CSS
-12.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
+15.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
 Java
-13.	Snake Game | https://github.com/konstantine25b/SnakeGame
+16.	Snake Game | https://github.com/konstantine25b/SnakeGame
 Java
-14.	“NBSG” website| https://github.com/konstantine25b/NBSG-Web
+17.	“NBSG” website| https://github.com/konstantine25b/NBSG-Web
 Startup website (built before I learned React)
 JavaScript | HTML | CSS 
-15.	Github Search App | https://github.com/konstantine25b/Github-Search-App
+18.	Github Search App | https://github.com/konstantine25b/Github-Search-App
 React Js | API | Styled Components
 
 
