@@ -21,25 +21,27 @@ Django | Django Rest Framework | PostgreSQL
 Django | Django Rest Framework | Django Filters
 9.	LinkedIn functional app (clone) |  https://github.com/konstantine25b/Linkedn-Clone
 React JS | Firebase | React Redux
-10. Reports-API | https://github.com/konstantine25b/Reports-API
+10. Simple_JWT Authentication | https://github.com/konstantine25b/Login_with_SImple_JWT
+Django | DjangoRestFramework | Simple-JWT | React Js 
+11. Reports-API | https://github.com/konstantine25b/Reports-API
 Django | Django Rest Framework
-11.	Movies app | https://github.com/konstantine25b/Entertainment-Movies-App
+12.	Movies app | https://github.com/konstantine25b/Entertainment-Movies-App
 React JS | Styled Components | React Router 
-12.	Planets App | https://github.com/konstantine25b/Planets-App
+13.	Planets App | https://github.com/konstantine25b/Planets-App
 React JS | Styled Components
-13.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
+14.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
 React Native | Google Cloud APIs |Redux Toolkit | React Navigation
-14. Zoo API | https://github.com/konstantine25b/Zoo_API
+15. Zoo API | https://github.com/konstantine25b/Zoo_API
 Django | Django Rest Framework | Django Filters | Swagger
-15. Books API | https://github.com/konstantine25b/Books_API
+16. Books API | https://github.com/konstantine25b/Books_API
 Django | Django Rest Framework | Django Filters 
-16. Todo app | https://github.com/konstantine25b/Todo
+17. Todo app | https://github.com/konstantine25b/Todo
 Django | Django Rest Framework | JavaScript | HTML | CSS
-17.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
+18.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
 Java
-18.	Snake Game | https://github.com/konstantine25b/SnakeGame
+19.	Snake Game | https://github.com/konstantine25b/SnakeGame
 Java
-19.	Github Search App | https://github.com/konstantine25b/Github-Search-App
+20.	Github Search App | https://github.com/konstantine25b/Github-Search-App
 React Js | API | Styled Components
 
 
