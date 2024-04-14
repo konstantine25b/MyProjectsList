@@ -4,8 +4,7 @@
 
 ### 1.	Food Ordering Functional App (for IOS and Android) | https://github.com/konstantine25b/Menu-Mobile-App
 React Native | React Navigation | React Redux | Firebase | React Hook Form (in progress)
-### 2.	Restaurant-Side Food Menu Uploading Platform | 
-https://github.com/konstantine25b/restaurant-side-web
+### 2.	Restaurant-Side Food Menu Uploading Platform | https://github.com/konstantine25b/restaurant-side-web
 React JS | Firebase | React Router | React Hook Form | Emotion
 ### 3.	Food Ordering Functional Web-App (For Mobiles) | https://github.com/konstantine25b/restaurant-app-web
 React JS | Firebase | React Redux | React Router | Styled Component (in progress)
