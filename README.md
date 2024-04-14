@@ -1,7 +1,7 @@
 # MyProjectsList
 
 ## This folder contains my completed projects.
-## in Python, Django, TypeScript, React JS, Java and More...
+### in Python, Django, TypeScript, React JS, Java and More...
 
 1.	Food Ordering Functional App (for IOS and Android) | https://github.com/konstantine25b/Menu-Mobile-App
 React Native | React Navigation | React Redux | Firebase | React Hook Form (in progress)
