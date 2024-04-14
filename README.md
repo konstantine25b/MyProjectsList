@@ -1,5 +1,8 @@
 # MyProjectsList
-This folder contains my completed projects.
+
+## This folder contains my completed projects.
+## in Python, Django, TypeScript, React JS, Java and More...
+
 1.	Food Ordering Functional App (for IOS and Android) | https://github.com/konstantine25b/Menu-Mobile-App
 React Native | React Navigation | React Redux | Firebase | React Hook Form (in progress)
 2.	Restaurant-Side Food Menu Uploading Platform | 
@@ -7,7 +10,7 @@ https://github.com/konstantine25b/restaurant-side-web
 React JS | Firebase | React Router | React Hook Form | Emotion
 3.	Food Ordering Functional Web-App (For Mobiles) | https://github.com/konstantine25b/restaurant-app-web
 React JS | Firebase | React Redux | React Router | Styled Component (in progress)
-4. Library Kiosk web & Library Kiosk app (Web, iOS, Android)
+4.  Library Kiosk web & Library Kiosk app (Web, iOS, Android)
 React JS | React Native | TypeScript | React Query | React Router
 https://github.com/konstantine25b/Kiosk_Library_Web | 
 https://github.com/konstantine25b/Kiosk_Library_App_Ios-Android
