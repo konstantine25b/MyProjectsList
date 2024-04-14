@@ -9,7 +9,7 @@ React JS | Firebase | React Router | React Hook Form | Emotion
 ### 3.	Food Ordering Functional Web-App (For Mobiles) | https://github.com/konstantine25b/restaurant-app-web
 React JS | Firebase | React Redux | React Router | Styled Component (in progress)
 ### 4.  Library Kiosk web & Library Kiosk app (Web, iOS, Android)
-#### https://github.com/konstantine25b/Kiosk_Library_Web | 
+#### https://github.com/konstantine25b/Kiosk_Library_Web 
 #### https://github.com/konstantine25b/Kiosk_Library_App_Ios-Android
 React JS | React Native | TypeScript | React Query | React Router
 ### 5. Book_Giveaway_service_API | https://github.com/konstantine25b/Book_Giveaway_Service_API
