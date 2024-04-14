@@ -3,7 +3,7 @@
 ## This folder contains my completed projects in Python, Django, TypeScript, React JS, Java and More...
 
 ### 1. Plants E-commerce Backend(API) | https://github.com/konstantine25b/Backend-Of-Plants-Ecommerce-Website
-#### Hosted on DigitalOcean, this website is secured with an SSL certificate | https://www.apikosaplants.online/
+#### Hosted on DigitalOcean, this website is secured with an SSL certificate | https://www.apikosaplants.online/admin/
 #### Django | Django-Rest-Framework | PostgreSQL | Simple JWT | Docker | Nginx | Redis | Gunicorn
 ### 2. Plants E-commerce Website Frontend | https://github.com/konstantine25b/Frontend-Of-Plants-Ecommerce-website
 #### Hosted on DigitlOcean | https://pla.apikosaplants.online/
