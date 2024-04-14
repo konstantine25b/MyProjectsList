@@ -2,13 +2,17 @@
 
 ## This folder contains my completed projects in Python, Django, TypeScript, React JS, Java and More...
 
-### 3.	Food Ordering Functional App (for IOS and Android) | https://github.com/konstantine25b/Menu-Mobile-App
+### 1. Plants E-commerce Backend(API) | https://github.com/konstantine25b/Backend-Of-Plants-Ecommerce-Website
+#### Django | Django-Rest-Framework | PostgreSQL | Simple JWT | Docker | Nginx | Redis | Gunicorn
+### 2. Plants E-commerce Website Frontend | https://github.com/konstantine25b/Frontend-Of-Plants-Ecommerce-website
+#### React js | TypeScript | React Redux | React Query | Reach Router DOM | React Hook Form | Emotion Styled
+### 3. Food Ordering Functional App (for IOS and Android) | https://github.com/konstantine25b/Menu-Mobile-App
 #### React Native | React Navigation | React Redux | Firebase | React Hook Form 
-### 4.	Restaurant-Side Food Menu Uploading Platform | https://github.com/konstantine25b/restaurant-side-web
+### 4. Restaurant-Side Food Menu Uploading Platform | https://github.com/konstantine25b/restaurant-side-web
 #### React JS | Firebase | React Router | React Hook Form | Emotion
-### 5.	Food Ordering Functional Web-App (For Mobiles) | https://github.com/konstantine25b/restaurant-app-web
+### 5. Food Ordering Functional Web-App (For Mobiles) | https://github.com/konstantine25b/restaurant-app-web
 #### React JS | Firebase | React Redux | React Router | Styled Component (in progress)
-### 6.  Library Kiosk web & Library Kiosk app (Web, iOS, Android)
+### 6. Library Kiosk web & Library Kiosk app (Web, iOS, Android)
 #### https://github.com/konstantine25b/Kiosk_Library_Web 
 #### https://github.com/konstantine25b/Kiosk_Library_App_Ios-Android
 #### React JS | React Native | TypeScript | React Query | React Router
