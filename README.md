@@ -9,7 +9,7 @@ This repository contains my completed projects in various technologies including
 
 ## 2. Plants E-commerce Website Frontend
 - **Repository:** [Frontend-Of-Plants-Ecommerce-website](https://github.com/konstantine25b/Frontend-Of-Plants-Ecommerce-website)
-- **Hosted On:** DigitalOcean | [Website](https://pla.apikosaplants.online/)
+- **Hosted On:** DigitalOcean | [https://konstantine25b.github.io/Frontend-Of-Plants-Ecommerce-website/)
 - **Technologies:** React JS, TypeScript, React Redux, React Query, Reach Router DOM, React Hook Form, Emotion Styled
 
 ## 3. Backend of Full-Stack Web Application with Django, GraphQL, and ReactJS
