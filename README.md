@@ -13,25 +13,14 @@ This repository contains my completed projects in various technologies including
 - **Technologies:** React JS, TypeScript, React Redux, React Query, Reach Router DOM, React Hook Form, Emotion Styled
 
 ## 3. Backend of Full-Stack Web Application with Django, GraphQL, and ReactJS
+- **Repository:** [realtime-auth-signin-tracker-backend](https://github.com/konstantine25b/realtime-auth-signin-tracker-backend)
 - **Overview:** This project is a full-stack web application utilizing Django for the backend and ReactJS for the frontend. The application includes user authentication, registration, and sign-in counting functionality. It features real-time updates for both personal and global sign-in counts and notifies users when the global sign-in count reaches a specific threshold.
-- **Technologies Used:**
-  - **Django:** High-level Python web framework.
-  - **Django Channels:** Adds WebSocket support to Django.
-  - **Redis:** In-memory data structure store used as a message broker.
-  - **Graphene-Django:** Integrates GraphQL with Django.
-  - **GraphQL JWT:** Provides JSON Web Token (JWT) authentication for GraphQL.
+- **Technologies:** Django, Django Channels, Redis, Graphene-Django, GraphQL JWT
 
 ## 4. ReactJS Frontend for Full-Stack Web Application with Django, GraphQL, and ReactJS
+- **Repository:** [realtime-auth-signin-tracker-frontend](https://github.com/konstantine25b/realtime-auth-signin-tracker-frontend)
 - **Overview:** This project includes a ReactJS frontend for a full-stack web application built with GraphQL. The application focuses on user authentication, registration, and real-time updates of sign-in counts using WebSocket functionality. It also features real-time notifications for users when a global sign-in count threshold is reached.
-- **Technologies Used:**
-  - **ReactJS:** JavaScript library for building user interfaces.
-  - **@apollo/client:** Fully-featured GraphQL client to interact with the GraphQL server.
-  - **React Router DOM:** Declarative routing for React.
-  - **@emotion/styled:** Library for writing CSS styles with JavaScript.
-- **User Interfaces:**
-  - **Authentication:** User interfaces for login and registration with forms styled using @emotion/styled.
-  - **Dashboard:** Displays the user's personal sign-in count, global sign-in count, and provides options for password change.
-  - **Real-Time Updates:** Updates the dashboard in real-time to reflect changes in personal and global sign-in counts.
+- **Technologies:** ReactJS, @apollo/client, React Router DOM, @emotion/styled
 
 ## 5. Food Ordering Functional App (iOS and Android)
 - **Repository:** [Menu-Mobile-App](https://github.com/konstantine25b/Menu-Mobile-App)
