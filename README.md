@@ -1,54 +1,115 @@
-# MyProjectsList
+# My Projects List
 
-## This folder contains my completed projects in Python, Django, TypeScript, React JS, Java and More...
+This repository contains my completed projects in various technologies including Python, Django, TypeScript, React JS, Java, and more.
 
-### 1. Plants E-commerce Backend(API) | https://github.com/konstantine25b/Backend-Of-Plants-Ecommerce-Website
-#### Hosted on DigitalOcean, this website is secured with an SSL certificate | https://www.apikosaplants.online/admin/
-#### Django | Django-Rest-Framework | PostgreSQL | Simple JWT | Docker | Nginx | Redis | Gunicorn
-### 2. Plants E-commerce Website Frontend | https://github.com/konstantine25b/Frontend-Of-Plants-Ecommerce-website
-#### Hosted on DigitlOcean | https://pla.apikosaplants.online/
-#### React js | TypeScript | React Redux | React Query | Reach Router DOM | React Hook Form | Emotion Styled
-### 3. Food Ordering Functional App (for IOS and Android) | https://github.com/konstantine25b/Menu-Mobile-App
-#### React Native | React Navigation | React Redux | Firebase | React Hook Form 
-### 4. Restaurant-Side Food Menu Uploading Platform | https://github.com/konstantine25b/restaurant-side-web
-#### React JS | Firebase | React Router | React Hook Form | Emotion
-### 5. Food Ordering Functional Web-App (For Mobiles) | https://github.com/konstantine25b/restaurant-app-web
-#### React JS | Firebase | React Redux | React Router | Styled Component (in progress)
-### 6. Library Kiosk web & Library Kiosk app (Web, iOS, Android)
-#### https://github.com/konstantine25b/Kiosk_Library_Web 
-#### https://github.com/konstantine25b/Kiosk_Library_App_Ios-Android
-#### React JS | React Native | TypeScript | React Query | React Router
-### 7. Book_Giveaway_service_API | https://github.com/konstantine25b/Book_Giveaway_Service_API
-#### Django | Django Rest Framework | PostgreSQL | Swagger
-### 8. Chat_APP | https://github.com/konstantine25b/Chat_API
-#### Django | Django Rest Framework | WebSockets | Redis | Daphne | Simple-JWT
-### 9. Ecommerce_API | https://github.com/konstantine25b/Ecommerce_API
-#### Django | Django Rest Framework | PostgreSQL 
-### 10. Gallery-API | https://github.com/konstantine25b/gallery-api
-#### Django | Django Rest Framework | Django Filters
-### 11.	LinkedIn functional app (clone) |  https://github.com/konstantine25b/Linkedn-Clone
-#### React JS | Firebase | React Redux
-### 12. Simple_JWT Authentication | https://github.com/konstantine25b/Login_with_SImple_JWT
-#### Django | DjangoRestFramework | Simple-JWT | React Js 
-### 13. Reports-API | https://github.com/konstantine25b/Reports-API
-#### Django | Django Rest Framework
-### 14.	Movies app | https://github.com/konstantine25b/Entertainment-Movies-App
-#### React JS | Styled Components | React Router 
-### 15.	Planets App | https://github.com/konstantine25b/Planets-App
-#### React JS | Styled Components
-### 16.	Uber functional app (clone) | https://github.com/konstantine25b/Uber-Copy-App
-#### React Native | Google Cloud APIs |Redux Toolkit | React Navigation
-### 17. Zoo API | https://github.com/konstantine25b/Zoo_API
-#### Django | Django Rest Framework | Django Filters | Swagger
-### 18. Books API | https://github.com/konstantine25b/Books_API
-#### Django | Django Rest Framework | Django Filters 
-### 19. Todo app | https://github.com/konstantine25b/Todo
-#### Django | Django Rest Framework | JavaScript | HTML | CSS
-### 20.	Encryption program | https://github.com/konstantine25b/encryptionProgramJava
-#### Java
-### 21.	Snake Game | https://github.com/konstantine25b/SnakeGame
-#### Java
-### 22.	Github Search App | https://github.com/konstantine25b/Github-Search-App
-#### React Js | API | Styled Components
+## 1. Plants E-commerce Backend (API)
+- **Repository:** [Backend-Of-Plants-Ecommerce-Website](https://github.com/konstantine25b/Backend-Of-Plants-Ecommerce-Website)
+- **Hosted On:** DigitalOcean (SSL Secured) | [Admin Panel](https://www.apikosaplants.online/admin/)
+- **Technologies:** Django, Django Rest Framework, PostgreSQL, Simple JWT, Docker, Nginx, Redis, Gunicorn
 
+## 2. Plants E-commerce Website Frontend
+- **Repository:** [Frontend-Of-Plants-Ecommerce-website](https://github.com/konstantine25b/Frontend-Of-Plants-Ecommerce-website)
+- **Hosted On:** DigitalOcean | [Website](https://pla.apikosaplants.online/)
+- **Technologies:** React JS, TypeScript, React Redux, React Query, Reach Router DOM, React Hook Form, Emotion Styled
 
+## 3. Backend of Full-Stack Web Application with Django, GraphQL, and ReactJS
+- **Overview:** This project is a full-stack web application utilizing Django for the backend and ReactJS for the frontend. The application includes user authentication, registration, and sign-in counting functionality. It features real-time updates for both personal and global sign-in counts and notifies users when the global sign-in count reaches a specific threshold.
+- **Technologies Used:**
+  - **Django:** High-level Python web framework.
+  - **Django Channels:** Adds WebSocket support to Django.
+  - **Redis:** In-memory data structure store used as a message broker.
+  - **Graphene-Django:** Integrates GraphQL with Django.
+  - **GraphQL JWT:** Provides JSON Web Token (JWT) authentication for GraphQL.
+
+## 4. ReactJS Frontend for Full-Stack Web Application with Django, GraphQL, and ReactJS
+- **Overview:** This project includes a ReactJS frontend for a full-stack web application built with GraphQL. The application focuses on user authentication, registration, and real-time updates of sign-in counts using WebSocket functionality. It also features real-time notifications for users when a global sign-in count threshold is reached.
+- **Technologies Used:**
+  - **ReactJS:** JavaScript library for building user interfaces.
+  - **@apollo/client:** Fully-featured GraphQL client to interact with the GraphQL server.
+  - **React Router DOM:** Declarative routing for React.
+  - **@emotion/styled:** Library for writing CSS styles with JavaScript.
+- **User Interfaces:**
+  - **Authentication:** User interfaces for login and registration with forms styled using @emotion/styled.
+  - **Dashboard:** Displays the user's personal sign-in count, global sign-in count, and provides options for password change.
+  - **Real-Time Updates:** Updates the dashboard in real-time to reflect changes in personal and global sign-in counts.
+
+## 5. Food Ordering Functional App (iOS and Android)
+- **Repository:** [Menu-Mobile-App](https://github.com/konstantine25b/Menu-Mobile-App)
+- **Technologies:** React Native, React Navigation, React Redux, Firebase, React Hook Form 
+
+## 6. Restaurant-Side Food Menu Uploading Platform
+- **Repository:** [restaurant-side-web](https://github.com/konstantine25b/restaurant-side-web)
+- **Technologies:** React JS, Firebase, React Router, React Hook Form, Emotion
+
+## 7. Food Ordering Functional Web-App (For Mobiles)
+- **Repository:** [restaurant-app-web](https://github.com/konstantine25b/restaurant-app-web)
+- **Technologies:** React JS, Firebase, React Redux, React Router, Styled Component (in progress)
+
+## 8. Library Kiosk Web & Library Kiosk App (Web, iOS, Android)
+- **Repository (Web):** [Kiosk_Library_Web](https://github.com/konstantine25b/Kiosk_Library_Web)
+- **Repository (iOS/Android):** [Kiosk_Library_App_Ios-Android](https://github.com/konstantine25b/Kiosk_Library_App_Ios-Android)
+- **Technologies:** React JS, React Native, TypeScript, React Query, React Router
+
+## 9. Book Giveaway Service API
+- **Repository:** [Book_Giveaway_Service_API](https://github.com/konstantine25b/Book_Giveaway_Service_API)
+- **Technologies:** Django, Django Rest Framework, PostgreSQL, Swagger
+
+## 10. Chat App
+- **Repository:** [Chat_API](https://github.com/konstantine25b/Chat_API)
+- **Technologies:** Django, Django Rest Framework, WebSockets, Redis, Daphne, Simple-JWT
+
+## 11. E-commerce API
+- **Repository:** [Ecommerce_API](https://github.com/konstantine25b/Ecommerce_API)
+- **Technologies:** Django, Django Rest Framework, PostgreSQL 
+
+## 12. Gallery API
+- **Repository:** [gallery-api](https://github.com/konstantine25b/gallery-api)
+- **Technologies:** Django, Django Rest Framework, Django Filters
+
+## 13. LinkedIn Functional App (Clone)
+- **Repository:** [Linkedn-Clone](https://github.com/konstantine25b/Linkedn-Clone)
+- **Technologies:** React JS, Firebase, React Redux
+
+## 14. Simple JWT Authentication
+- **Repository:** [Login_with_Simple_JWT](https://github.com/konstantine25b/Login_with_SImple_JWT)
+- **Technologies:** Django, Django Rest Framework, Simple-JWT, React JS 
+
+## 15. Reports API
+- **Repository:** [Reports-API](https://github.com/konstantine25b/Reports-API)
+- **Technologies:** Django, Django Rest Framework
+
+## 16. Movies App
+- **Repository:** [Entertainment-Movies-App](https://github.com/konstantine25b/Entertainment-Movies-App)
+- **Technologies:** React JS, Styled Components, React Router 
+
+## 17. Planets App
+- **Repository:** [Planets-App](https://github.com/konstantine25b/Planets-App)
+- **Technologies:** React JS, Styled Components
+
+## 18. Uber Functional App (Clone)
+- **Repository:** [Uber-Copy-App](https://github.com/konstantine25b/Uber-Copy-App)
+- **Technologies:** React Native, Google Cloud APIs, Redux Toolkit, React Navigation
+
+## 19. Zoo API
+- **Repository:** [Zoo_API](https://github.com/konstantine25b/Zoo_API)
+- **Technologies:** Django, Django Rest Framework, Django Filters, Swagger
+
+## 20. Books API
+- **Repository:** [Books_API](https://github.com/konstantine25b/Books_API)
+- **Technologies:** Django, Django Rest Framework, Django Filters 
+
+## 21. Todo App
+- **Repository:** [Todo](https://github.com/konstantine25b/Todo)
+- **Technologies:** Django, Django Rest Framework, JavaScript, HTML, CSS
+
+## 22. Encryption Program
+- **Repository:** [encryptionProgramJava](https://github.com/konstantine25b/encryptionProgramJava)
+- **Technologies:** Java
+
+## 23. Snake Game
+- **Repository:** [SnakeGame](https://github.com/konstantine25b/SnakeGame)
+- **Technologies:** Java
+
+## 24. Github Search App
+- **Repository:** [Github-Search-App](https://github.com/konstantine25b/Github-Search-App)
+- **Technologies:** React JS, API, Styled Components
